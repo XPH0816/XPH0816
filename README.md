@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    - Back-End: PHP
    - Framework: BootStrap, Laravel
 
-2. For :ios: **App Dev**
+2. For :iphone: **App Dev**
    - Flutter
    - Backend: Laravel (PHP)
 
