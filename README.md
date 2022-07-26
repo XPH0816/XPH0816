@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, My name is **Shi Song** 👋 Feel free to call me *Song*
+# Hi there, My name is **Shi Song** 👋 Feel free to call me *Song*
 🔭: I am a IT Networking studnet from *Politeknik Mersing Johor (PMJ)*
 
 
