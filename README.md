@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 # Hi there, My name is **Shi Song** 👋 Feel free to call me *Song*
 🔭: I am a IT Networking studnet from *Politeknik Mersing Johor (PMJ)*
 
-
 ### Some fun fact about me
 :smile: I am... 
 - Nothing 🤣🤣🤣
-
 
 ### List of Skills
 🌱: I am passionate in **Web, App development**.
@@ -45,17 +43,15 @@ Here are some ideas to get you started:
    - Python
    - Linux
 
-
 ### Current Plan
 - 👯 I’m looking to collaborate on Web & App project
 - :golf: Improve my Web & App Development skills
-
 
 ### Connection
 - 📫 How to reach me: ...
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=dark)](https://github.com/XPH0816)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=merko)](https://github.com/XPH0816)
 
 
 
