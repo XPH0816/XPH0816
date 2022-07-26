@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **XPH0816/XPH0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, My name is **Shi Song** 👋 Feel free to call me *Song*
+## Hi there, My name is **Shi Song** 👋 Feel free to call me *Song*
 🔭: I am a IT Networking studnet from *Politeknik Mersing Johor (PMJ)*
 
 
