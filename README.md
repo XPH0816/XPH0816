@@ -37,7 +37,7 @@ Here are some ideas to get you started:
    - Flutter
    - Backend: Laravel (PHP)
 
-3. For :computer: **App Dev**
+3. For :computer: **Desktop App Dev**
    - Python
    - Library: PyQT5
 
