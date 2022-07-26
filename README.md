@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=radical)](https://github.com/XPH0816)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=dark)](https://github.com/XPH0816)
 
 
 
