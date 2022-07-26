@@ -44,7 +44,6 @@ Here are some ideas to get you started:
    - Linux
 
 ### Current Plan
-- 👯 I’m looking to collaborate on Web & App project
 - :golf: Improve my Web & App Development skills
 
 ### Connection
