@@ -52,5 +52,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=tokyonight)](https://github.com/XPH0816)
 
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
+<a href="https://www.buymeacoffee.com/limshisongb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
