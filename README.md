@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### Connection
 - 📫 How to reach me: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPH0816&layout=compact&theme=tokyonight)]([https://github.com/dreampiggy/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPH0816&layout=compact&theme=tokyonight)]([https://github.com/XPH0816/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=tokyonight)](https://github.com/XPH0816)
 
