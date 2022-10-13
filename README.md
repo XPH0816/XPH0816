@@ -49,6 +49,11 @@ Here are some ideas to get you started:
 ### Connection
 - 📫 How to reach me: limshisong123@gmail.com
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/XPH0816/count.svg" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPH0816&layout=compact&theme=tokyonight)](https://github.com/XPH0816)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XPH0816&show_icons=true&theme=tokyonight)](https://github.com/XPH0816)
