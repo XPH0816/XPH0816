@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, My name is **Shi Song** 👋 Feel free to call me *Song*
-🔭: I am a IT Networking student from *Politeknik Mersing Johor (PMJ)*
+🔭: I am a Computer Science student from *Universiti Tun Hussein Onn Malaysia (UTHM)*
 
 ### Some fun fact about me
 :smile: I am... 
