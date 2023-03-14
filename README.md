@@ -49,16 +49,42 @@ Here are some ideas to get you started:
 ### Connection
 - 📫 How to reach me: limshisong123@gmail.com
 
+---
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/XPH0816/count.svg" />
 </p>
 
+---
+
+<div align="center">
+
+### `Top Langs`
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xph0816&layout=compact&theme=tokyonight)](https://github.com/XPH0816)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xph0816&show_icons=true&theme=tokyonight)](https://github.com/XPH0816)
+---
+   
+### `Github Stats`
+
+[![Song's github stats](https://github-readme-stats.vercel.app/api?username=xph0816&show_icons=true&theme=tokyonight)](https://github.com/XPH0816)
+
+---
+   
+### `GitHub Activity Graph`
+
+<!-- GitHub Activity Graph -->
+
+[![KurisaW's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=XPH0816&theme=tokyo-night&custom_title=XPH0816's%20GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+   
+### `Sponsor`
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/limshisongb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
 
+---
