@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Activity Graph -->
 
-[![KurisaW's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=XPH0816&theme=tokyo-night&custom_title=XPH0816's%20GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![XPH0816's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XPH0816&theme=tokyo-night&custom_title=XPH0816's%20GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
    
