@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    - Library: PyQT5
 
 4. Other **Skills**
-   - C++, Java
+   - C/C++, Java
    - MySQL
    - Python
    - Linux
