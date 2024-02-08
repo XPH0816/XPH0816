@@ -79,16 +79,4 @@ Here are some ideas to get you started:
 [![XPH0816's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XPH0816&theme=tokyo-night&custom_title=XPH0816's%20GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-   
-### `Sponsor`
-   
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/limshisongb" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-or Donate with Paypal 🥺👉👈
-   
-<a href="https://www.paypal.me/ShiSongLim" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal Donate Button" width="300"></a>
-</div>
-
----
