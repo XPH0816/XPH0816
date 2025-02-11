@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    - HTML & CSS
    - Front-End: JavaScript
    - Back-End: PHP
-   - Framework: BootStrap, Laravel
+   - Framework: BootStrap, Laravel, Vue.js, Svelte, SvelteKit
 
 2. For :iphone: **App Dev**
    - Flutter
@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 3. For :computer: **Desktop App Dev**
    - Python
    - Library: PyQT5
+   - Tech Stack: Tauri
 
 4. Other **Skills**
-   - C/C++, Java
+   - C/C++, Java, Rust
    - MySQL
    - Python
    - Linux
